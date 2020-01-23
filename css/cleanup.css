@@ -17,3 +17,13 @@
 #wall #tag2{
   display: none;
 }
+
+body div#wall div.parent div > #tag-7.slick {
+  background: url(../images/tag-7.png) no-repeat;
+  z-index: 1;
+  display: block;
+}
+
+#wall div.parent div > #tag-7.slick {
+  display: none;
+}
